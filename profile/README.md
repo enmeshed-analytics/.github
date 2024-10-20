@@ -1,12 +1,3 @@
-## Welcome to Enmeshed Analytics
+# Welcome to Enmeshed Analytics 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+![Screenshot 2024-10-20 at 23 59 52](https://github.com/user-attachments/assets/2386b1a4-cdb9-445c-b8d3-6ce8db69c86b)
